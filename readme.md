@@ -1,3 +1,5 @@
+### This is just a fork of the original SVGNest code, for archiving reasons. Please visit https://github.com/Jack000/SVGnest for the most up-to-date code!
+
 # ![SVGNest](http://svgnest.com/github/logo2.png)
 
 **SVGNest**: A browser-based vector nesting tool.
